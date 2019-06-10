@@ -1,0 +1,123 @@
+﻿Kolejka 36
+26.04. 21:00	
+Liverpool
+Huddersfield
+ 
+27.04. 13:30	
+Tottenham
+West Ham
+ 
+27.04. 16:00	
+Crystal Palace
+Everton
+ 
+27.04. 16:00	
+Fulham
+Cardiff
+ 
+27.04. 16:00	
+Southampton
+Bournemouth
+ 
+27.04. 16:00	
+Watford
+Wolves
+ 
+27.04. 18:30	
+Brighton
+Newcastle
+ 
+28.04. 13:00	
+Leicester
+Arsenal
+ 
+28.04. 15:05	
+Burnley
+Manchester City
+ 
+28.04. 17:30	
+Manchester Utd
+Chelsea
+ 
+Kolejka 37
+03.05. 21:00	
+Everton
+Burnley
+ 
+04.05. 13:30	
+Bournemouth
+Tottenham
+ 
+04.05. 16:00	
+West Ham
+Southampton
+ 
+04.05. 16:00	
+Wolves
+Fulham
+ 
+04.05. 18:30	
+Cardiff
+Crystal Palace
+ 
+04.05. 20:45	
+Newcastle
+Liverpool
+ 
+05.05. 15:00	
+Chelsea
+Watford
+ 
+05.05. 15:00	
+Huddersfield
+Manchester Utd
+ 
+05.05. 17:30	
+Arsenal
+Brighton
+ 
+06.05. 21:00	
+Manchester City
+Leicester
+ 
+Kolejka 38
+12.05. 16:00	
+Brighton
+Manchester City
+ 
+12.05. 16:00	
+Burnley
+Arsenal
+ 
+12.05. 16:00	
+Crystal Palace
+Bournemouth
+ 
+12.05. 16:00	
+Fulham
+Newcastle
+ 
+12.05. 16:00	
+Leicester
+Chelsea
+ 
+12.05. 16:00	
+Liverpool
+Wolves
+ 
+12.05. 16:00	
+Manchester Utd
+Cardiff
+ 
+12.05. 16:00	
+Southampton
+Huddersfield
+ 
+12.05. 16:00	
+Tottenham
+Everton
+ 
+12.05. 16:00	
+Watford
+West Ham
+ 
